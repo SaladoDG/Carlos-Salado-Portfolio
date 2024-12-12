@@ -109,22 +109,23 @@ header nav {
 
 #sobre_mi{
     background-color: #F2D0BD;
-    padding: 0px 0px 300px;
+    padding: 0% 0% 60%;
 }
 
 #sobre_mi p{
-    width: 680px;
+    max-width: 40%;
     color:rgb(0, 0, 0);
     font-size: 27px;
     text-align: justify;
-    padding: 130px 100px 20px;
+    padding: 6%;
+    margin-right: 2%;
     float: left;
 }
 
 #sobre_mi img{
-    position: relative;
-    left: 100px;
-    top: 180px;
+float: left;
+margin-top: 6%;
+max-width: 40%;
 }
 
 div p span {
