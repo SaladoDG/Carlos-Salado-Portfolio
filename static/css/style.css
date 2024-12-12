@@ -230,7 +230,7 @@ footer p {
 
 .proyecto1 img{
     margin: 0px;
-    width: 1900px;
+    max-width: 100%;
     object-fit: cover;
 }
 
@@ -240,7 +240,7 @@ footer p {
 
 .proyecto2 img{
     margin: 0px;
-    width: 1900px;
+    max-width: 100%;
     object-fit: cover;
 }
 
@@ -250,7 +250,7 @@ footer p {
 
 .wrappel img{
     margin: 0px;
-    width: 1900px;
+    max-width: 100%;
     object-fit: cover;
 }
 
@@ -260,7 +260,7 @@ footer p {
 
 .proyecto3 img{
     margin: 0px;
-    width: 1900px;
+    max-width: 100%;
     object-fit: cover;
 }
 
@@ -270,7 +270,7 @@ footer p {
 
 .yewerly img{
     margin: 0px;
-    width: 1900px;
+    max-width: 100%;
     object-fit: cover;
 }
 
@@ -280,7 +280,7 @@ footer p {
 
 .proyecto4 img{
     margin: 0px;
-    width: 1900px;
+    max-width: 100%;
     object-fit: cover;
 }
 
@@ -290,7 +290,7 @@ footer p {
 
 .sangre img{
     margin: 0px;
-    width: 1900px;
+    max-width: 100%;
     object-fit: cover;
 }
 
@@ -300,7 +300,7 @@ footer p {
 
 .proyecto5 img{
     margin: 0px;
-    width: 1900px;
+    max-width: 100%;
     object-fit: cover;
 }
 
