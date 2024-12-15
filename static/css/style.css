@@ -135,7 +135,9 @@ div p span {
 }
 
 footer {
+    background-color: black;
     clear: both;
+    margin: 0px;
 }
 
 footer p {
@@ -227,6 +229,9 @@ footer p {
 
 .proyecto1 {
     background-color: #80336E;
+    margin: 0px;
+    max-width: 100%;
+    object-fit: cover;
 }
 
 .proyecto1 img{
@@ -267,6 +272,9 @@ footer p {
 
 .yewerly {
     background-color: #ffffff;
+    margin: 0px;
+    max-width: 100%;
+    object-fit: cover;
 }
 
 .yewerly img{
@@ -297,10 +305,15 @@ footer p {
 
 .proyecto5 {
     background-color: #ffffff;
+    margin: 0px;
+    padding: 0%;
+    max-width: 100%;
+    object-fit: cover;
 }
 
 .proyecto5 img{
     margin: 0px;
+    padding: 0%;
     max-width: 100%;
     object-fit: cover;
 }
@@ -330,4 +343,53 @@ footer p {
 .proyecto6 img {
     width: 100%; /* Las imágenes ocupan todo el ancho del contenedor */
     height: auto; /* Mantener la relación de aspecto */
+}
+
+.explicacionesborne {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+    background-color: white;
+    padding: 18%;
+    text-align: center;
+}
+
+.explicacionesyw {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+    background-color: #C998C5;
+    color: white;
+    padding: 18%;
+    text-align: center;
+}
+
+.explicacionesdcam {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+    background-color: #80336E;
+    color: #FFBF2B;
+    padding: 18%;
+    text-align: center;
+}
+
+.explicacioneswrappel {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+    background-color: #FAC060;
+    color: #ffffff;
+    padding: 18%;
+    text-align: center;
+}
+
+.explicacionessangre {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+    background-color: #000000;
+    color: #FABB52;
+    padding: 18%;
+    text-align: center;
 }
